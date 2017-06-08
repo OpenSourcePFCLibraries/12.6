@@ -66,7 +66,7 @@ public function integer of_create (ref n_cst_treenode anv_currentnode);/////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -118,7 +118,7 @@ public function integer of_destroy (n_cst_treenode anv_currentnode);////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -179,7 +179,7 @@ protected function integer of_search (ref n_cst_treenode anv_currentnode, n_cst_
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -257,7 +257,7 @@ protected function integer of_addnode (n_cst_treenode anv_newnode, ref n_cst_tre
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -428,7 +428,7 @@ protected function integer of_balanceleft (ref n_cst_treenode anv_currentnode, r
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -528,7 +528,7 @@ protected function integer of_balanceright (ref n_cst_treenode anv_currentnode, 
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -633,7 +633,7 @@ protected function integer of_delnode (n_cst_treenode anv_keynode, ref n_cst_tre
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -721,7 +721,7 @@ public function integer of_getroot (ref n_cst_treenode anv_node);///////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -778,7 +778,7 @@ protected function integer of_balance (ref n_cst_treenode anv_delnode, ref boole
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -844,7 +844,7 @@ public function long of_count ();///////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -897,7 +897,7 @@ public function integer of_get (ref n_cst_treenode anv_list[]);/////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -955,7 +955,7 @@ public function long of_destroy ();/////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1023,7 +1023,7 @@ protected function integer of_traverse (n_cst_treenode anv_currentnode, ref n_cs
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1105,7 +1105,7 @@ public function integer of_remove (ref n_cst_treenode anv_currentnode);/////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1177,7 +1177,7 @@ public function integer of_find (ref n_cst_treenode anv_currentnode, n_cst_treen
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1236,7 +1236,7 @@ public function integer of_setcompare (n_cst_treenodecompare anv_compare);//////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1301,7 +1301,7 @@ public function integer of_add (n_cst_treenode anv_currentnode);////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
