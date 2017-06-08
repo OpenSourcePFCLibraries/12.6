@@ -12,6 +12,7 @@ global variables
 /*  Application Manager  */
 n_cst_appmanager gnv_app 
 end variables
+
 global type generic_pfc_app from application
  end type
 global generic_pfc_app generic_pfc_app
