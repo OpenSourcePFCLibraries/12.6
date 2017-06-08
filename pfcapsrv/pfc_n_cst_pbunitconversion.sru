@@ -81,7 +81,7 @@ public function decimal of_inchestotwipsx (decimal vdec_inches);////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -126,7 +126,7 @@ public function decimal of_inchestotwipsy (decimal vdec_inches);////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -168,7 +168,7 @@ private function long of_twipsperpixely ();/////////////////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -218,7 +218,7 @@ public function decimal of_twipstoinchesx (decimal vdec_twips);/////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -263,7 +263,7 @@ public function decimal of_twipstoinchesy (decimal vdec_twips);/////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -305,7 +305,7 @@ private function long of_twipsperpixelx ();/////////////////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -355,7 +355,7 @@ public function decimal of_pbunitstoinchesx (long vl_pbunits);//////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -403,7 +403,7 @@ public function decimal of_pbunitstoinchesy (long vl_pbunits);//////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -451,7 +451,7 @@ public function decimal of_inchestopbunitsx (decimal vdec_inches);//////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -499,7 +499,7 @@ public function decimal of_inchestopbunitsy (decimal vdec_inches);//////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -545,7 +545,7 @@ public function decimal of_twipstopixelsx (decimal vdec_twips);/////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -588,7 +588,7 @@ public function decimal of_twipstopixelsy (decimal vdec_twips);/////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -642,7 +642,7 @@ public function long of_convertunitsx (double vdbl_units, integer vl_fromunits, 
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -722,7 +722,7 @@ public function long of_convertunitsy (double vdbl_units, integer vl_fromunits, 
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -793,7 +793,7 @@ public function decimal of_inchestopixelsx (decimal vdec_inches);///////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -838,7 +838,7 @@ public function decimal of_inchestopixelsy (decimal vdec_inches);///////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -883,7 +883,7 @@ public function decimal of_pixelstoinchesy (decimal vdec_pixels);///////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -928,7 +928,7 @@ public function decimal of_pixelstoinchesx (decimal vdec_pixels);///////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -973,7 +973,7 @@ public function decimal of_centimeterstopbunitsx (decimal vdec_centimeters);////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1024,7 +1024,7 @@ public function decimal of_centimeterstopbunitsy (decimal vdec_centimeters);////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1075,7 +1075,7 @@ public function decimal of_centimeterstopixelsx (decimal vdec_centimeters);/////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1123,7 +1123,7 @@ public function decimal of_centimeterstopixelsy (decimal vdec_centimeters);/////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1171,7 +1171,7 @@ public function decimal of_centimeterstotwipsx (decimal vdec_centimeters);//////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1219,7 +1219,7 @@ public function decimal of_centimeterstotwipsy (decimal vdec_centimeters);//////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1268,7 +1268,7 @@ public function decimal of_pbunitstocentimetersx (long vl_pbunits);/////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1320,7 +1320,7 @@ public function decimal of_pbunitstocentimetersy (long vl_pbunits);/////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1372,7 +1372,7 @@ public function decimal of_pixelstocentimetersx (decimal vdec_pixels);//////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1421,7 +1421,7 @@ public function decimal of_pixelstocentimetersy (decimal vdec_pixels);//////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1469,7 +1469,7 @@ public function decimal of_twipstocentimetersx (decimal vdec_twips);////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1517,7 +1517,7 @@ public function decimal of_twipstocentimetersy (decimal vdec_twips);////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
