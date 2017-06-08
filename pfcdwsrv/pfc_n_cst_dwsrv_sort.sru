@@ -94,7 +94,7 @@ event type integer pfc_clicked(integer ai_xpos, integer ai_ypos, long al_row, re
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -234,7 +234,7 @@ event type integer pfc_sortdlg();///////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -307,7 +307,7 @@ public function boolean of_getusedisplay ();////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -354,7 +354,7 @@ public function boolean of_getvisibleonly ();///////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -410,7 +410,7 @@ public function integer of_setsort (string as_format);//////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -529,7 +529,7 @@ public function string of_getsort ();///////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -577,7 +577,7 @@ public function integer of_setvisibleonly (boolean ab_visible);/////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -629,7 +629,7 @@ public function integer of_sort ();/////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -685,7 +685,7 @@ public function integer of_getexclude (ref string as_excludecols[]);////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -736,7 +736,7 @@ public function integer of_setexclude (string as_excludecols[]);////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -785,7 +785,7 @@ public function integer of_setusedisplay (boolean ab_usedisplay);///////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -839,7 +839,7 @@ protected function boolean of_usesdisplayvalue (string as_column);//////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -903,7 +903,7 @@ protected function integer of_buildsortattrib (ref n_cst_sortattrib anv_sortattr
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1042,7 +1042,7 @@ protected function integer of_ParseSortAttrib (string as_originalsort, ref n_cst
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1125,7 +1125,7 @@ public function integer of_setstyle (integer ai_style);/////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1199,7 +1199,7 @@ public function integer of_getstyle ();/////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1251,7 +1251,7 @@ public function integer of_setcolumnheader (boolean ab_switch);/////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1307,7 +1307,7 @@ public function boolean of_getcolumnheader ();//////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1359,7 +1359,7 @@ public function integer of_getregisterable (ref string as_allcolumns[]);////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1426,7 +1426,7 @@ public function integer of_getinfo (ref n_cst_infoattrib anv_infoattrib);///////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1481,7 +1481,7 @@ public function integer of_getpropertyinfo (ref n_cst_propertyattrib anv_attrib)
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1538,7 +1538,7 @@ public subroutine of_sortindicatornone ();//////////////////////////////////////
 //
 //	Open Source PowerBuilder Foundation Class Libraries
 //
-//	Copyright (c) 2004-2005, All rights reserved.
+//	Copyright (c) 2004-2017, All rights reserved.
 //
 //	Redistribution and use in source and binary forms, with or without
 //	modification, are permitted in accordance with the MIT License
@@ -1590,7 +1590,7 @@ public subroutine of_sortindicatordraw ();//////////////////////////////////////
 //
 //	Open Source PowerBuilder Foundation Class Libraries
 //
-//	Copyright (c) 2004-2005, All rights reserved.
+//	Copyright (c) 2004-2017, All rights reserved.
 //
 //	Redistribution and use in source and binary forms, with or without
 //	modification, are permitted in accordance with the MIT License
@@ -1636,7 +1636,7 @@ public function string of_getsort (datawindow vdw_getsort);/////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1694,7 +1694,7 @@ private function integer of_setsort (string as_format, boolean ab_pfcclicked);//
 //
 //	Open Source PowerBuilder Foundation Class Libraries
 //
-//	Copyright (c) 2004-2005, All rights reserved.
+//	Copyright (c) 2004-2017, All rights reserved.
 //
 //	Redistribution and use in source and binary forms, with or without
 //	modification, are permitted in accordance with the MIT License
@@ -1760,7 +1760,7 @@ private function integer of_setsortdraw (boolean ab_switch);////////////////////
 //
 //	Open Source PowerBuilder Foundation Class Libraries
 //
-//	Copyright (c) 2004-2005, All rights reserved.
+//	Copyright (c) 2004-2017, All rights reserved.
 //
 //	Redistribution and use in source and binary forms, with or without
 //	modification, are permitted in accordance with the MIT License
@@ -1842,7 +1842,7 @@ event destructor;call super::destructor;////////////////////////////////////////
 //
 //	Open Source PowerBuilder Foundation Class Libraries
 //
-//	Copyright (c) 2004-2005, All rights reserved.
+//	Copyright (c) 2004-2017, All rights reserved.
 //
 //	Redistribution and use in source and binary forms, with or without
 //	modification, are permitted in accordance with the MIT License
