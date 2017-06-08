@@ -157,7 +157,7 @@ public function string of_getseparator ();//////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -192,7 +192,7 @@ public function string of_assemblepath (string as_drive, string as_dirpath, stri
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -273,7 +273,7 @@ public function string of_AssemblePath (string as_Drive, string as_DirPath, stri
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -311,7 +311,7 @@ public function integer of_FileCopy (string as_sourcefile, string as_targetfile,
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -352,7 +352,7 @@ public function long of_FileRead (string as_FileName, ref blob ablb_Data);//////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -421,7 +421,7 @@ public function long of_fileread (string as_filename, ref string as_text[]);////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -485,7 +485,7 @@ public function integer of_filewrite (string as_filename, string as_text, boolea
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -560,7 +560,7 @@ public function integer of_FileWrite (string as_FileName, blob ablb_Data, boolea
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -635,7 +635,7 @@ public function integer of_FileWrite (string as_filename, string as_text);//////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -671,7 +671,7 @@ public function integer of_FileWrite (string as_FileName, blob ablb_Data);//////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -709,7 +709,7 @@ public function integer of_FileCopy (string as_SourceFile, string as_TargetFile)
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -768,7 +768,7 @@ public function integer of_SetFileReadonly (string as_filename, boolean ab_reado
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -806,7 +806,7 @@ public function integer of_SetFileHidden (string as_filename, boolean ab_hidden)
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -844,7 +844,7 @@ public function integer of_SetFileSystem (string as_filename, boolean ab_system)
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -882,7 +882,7 @@ public function integer of_SetFileArchive (string as_filename, boolean ab_archiv
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -943,7 +943,7 @@ protected function unsignedlong of_calculatefileattributes (string as_filename, 
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1029,7 +1029,7 @@ protected function boolean of_includefile (string as_filename, long al_attribmas
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1127,7 +1127,7 @@ public function integer of_GetLastwriteDate (string as_FileName, ref date ad_Dat
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1165,7 +1165,7 @@ public function integer of_GetLastwriteTime (string as_FileName, ref time at_Tim
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1203,7 +1203,7 @@ public function integer of_GetCreationTime (string as_FileName, ref time at_Time
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1241,7 +1241,7 @@ public function integer of_GetCreationDate (string as_filename, ref date ad_date
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1305,7 +1305,7 @@ public function integer of_deltree (string as_directoryname);///////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1383,7 +1383,7 @@ public function integer of_parsepath (string as_path, ref string as_drive, ref s
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1463,7 +1463,7 @@ public function integer of_parsepath (string as_path, ref string as_drive, ref s
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1508,7 +1508,7 @@ public function integer of_sortdirlist (ref n_cst_dirattrib anv_dirlist[], integ
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1619,7 +1619,7 @@ public function integer of_sortdirlist (ref n_cst_dirattrib anv_dirlist[], integ
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1660,7 +1660,7 @@ protected function integer of_dirattribtods (ref n_ds ads_source, n_cst_dirattri
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1737,7 +1737,7 @@ protected function integer of_dstodirattrib (ref n_ds ads_source, ref n_cst_dira
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1830,7 +1830,7 @@ public function string of_getallfilesspecifier ();//////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -2002,7 +2002,7 @@ public function string of_getsystemdirectory ();////////////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -2051,7 +2051,7 @@ public function string of_getshortpathname (string as_longpathname);////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -2102,7 +2102,7 @@ public function string of_getwindowsdirectory ();///////////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -2151,7 +2151,7 @@ public function string of_getlongpathname (string as_shortpathname);////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -2207,7 +2207,7 @@ public function boolean of_movefile (string as_existingfilename, string as_newfi
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -2250,7 +2250,7 @@ public function string of_gettemppath ();///////////////////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -2326,7 +2326,7 @@ public function string of_gettempfilename (string vs_directory, string vs_prefix
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -2381,7 +2381,7 @@ public function string of_gettempfilename (string vs_prefix);///////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
