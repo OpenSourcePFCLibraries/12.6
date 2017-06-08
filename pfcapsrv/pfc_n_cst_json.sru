@@ -72,7 +72,7 @@ public function integer of_delete_entries (long al_start, long al_end);/////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -135,7 +135,7 @@ public function integer of_delete_entry (long al_index);////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -192,7 +192,7 @@ public function long of_find_entry (string as_object, string as_pair_name);/////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -253,7 +253,7 @@ public function integer of_delete_object (string as_object);////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -324,7 +324,7 @@ public function integer of_clear ();////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -377,7 +377,7 @@ public function integer of_parse (string as_json);//////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -518,7 +518,7 @@ public function string of_tostring ();//////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -615,7 +615,7 @@ public function long of_get_objects (ref string as_objects[]);//////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -689,7 +689,7 @@ public function long of_get_pair (string as_object, string as_pair_name, ref s_j
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -759,7 +759,7 @@ public function integer of_get_value (string as_object, string as_pair_name, ref
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -832,7 +832,7 @@ public function integer of_load (string as_filename);///////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -898,7 +898,7 @@ public function integer of_save (string as_filename);///////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -957,7 +957,7 @@ public function integer of_reset ();////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1018,7 +1018,7 @@ public function long of_find_entries (string as_object, string as_pair_name, ref
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1100,7 +1100,7 @@ public function integer of_get_entry (long al_index, ref s_json_attrib astr_pair
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1160,7 +1160,7 @@ public function long of_get_object (string as_object, ref s_json_attrib astr_ent
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1234,7 +1234,7 @@ public function integer of_add_entry (string as_object, string as_pair_name, str
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1301,7 +1301,7 @@ public function integer of_edit_entry (long al_index, string as_object, string a
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1365,7 +1365,7 @@ public function integer of_get_values (string as_object, string as_pair_name, re
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
