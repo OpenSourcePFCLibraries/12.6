@@ -137,7 +137,7 @@ public function string of_getsystemdirectory ();////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License99
@@ -195,7 +195,7 @@ public function string of_getwindowsdirectory ();///////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License99
@@ -253,7 +253,7 @@ public function long of_PageSetupDlg (ref s_pagesetupattrib astr_pagesetup);////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License99
@@ -301,7 +301,7 @@ public function integer of_PlaySound (string as_file, boolean ab_beeponfailure);
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License99
@@ -347,7 +347,7 @@ public function integer of_setfindwindowclasses (string as_classname[]);////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License99
@@ -420,7 +420,7 @@ public function unsignedlong of_getsyscolor (integer ai_index);/////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -462,7 +462,7 @@ public function unsignedlong of_getdpix ();/////////////////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -513,7 +513,7 @@ public function unsignedlong of_getdpiy ();/////////////////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -568,7 +568,7 @@ public function unsignedinteger of_getsystemmetrics (integer ai_index);/////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -615,7 +615,7 @@ public function boolean of_getclientrect (unsignedlong vul_hwnd, ref long rl_lef
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
