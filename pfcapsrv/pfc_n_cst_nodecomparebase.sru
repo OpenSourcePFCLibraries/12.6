@@ -63,7 +63,7 @@ public function integer of_compare (any aa_value1, any aa_value2);//////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -153,7 +153,7 @@ public function integer of_compare (n_cst_nodebase anv_node1, n_cst_nodebase anv
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
