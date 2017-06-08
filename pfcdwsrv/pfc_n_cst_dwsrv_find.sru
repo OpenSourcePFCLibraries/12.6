@@ -75,7 +75,7 @@ event pfc_findnext;/////////////////////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -146,7 +146,7 @@ event type long pfc_replace(n_cst_findattrib anv_findattrib);///////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -240,7 +240,7 @@ event pfc_replaceall;///////////////////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -290,7 +290,7 @@ event pfc_finddlg;//////////////////////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -358,7 +358,7 @@ event pfc_replacedlg;///////////////////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -436,7 +436,7 @@ public function integer of_initialize (n_cst_findattrib anv_findattrib);////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -512,7 +512,7 @@ protected function string of_buildfindexpression (string as_find, string as_colu
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -630,7 +630,7 @@ protected function boolean of_compareattrib (n_cst_findattrib anv_findattrib);//
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -688,7 +688,7 @@ protected function boolean of_isongoingfind (n_cst_findattrib anv_findattrib);//
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -766,7 +766,7 @@ public function long of_find (string as_column, string as_find, long al_startrow
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -844,7 +844,7 @@ protected function integer of_selecttext (string as_colname, long al_row, boolea
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -996,7 +996,7 @@ protected function integer of_findstartandendrows (ref long al_startrow, ref lon
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1086,7 +1086,7 @@ protected function integer of_replace (long al_row, string as_colname, string as
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1303,7 +1303,7 @@ public function integer of_getinfo (ref n_cst_infoattrib anv_infoattrib);///////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1359,7 +1359,7 @@ public function integer of_setallowfinddlg (boolean ab_switch);/////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1411,7 +1411,7 @@ public function boolean of_isallowfinddlg ();///////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1459,7 +1459,7 @@ public function boolean of_IsAllowReplaceDlg ();////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1509,7 +1509,7 @@ public function integer of_SetAllowReplaceDlg (boolean ab_switch);//////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1563,7 +1563,7 @@ public function integer of_getpropertyinfo (ref n_cst_propertyattrib anv_attrib)
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1614,7 +1614,7 @@ protected function long of_find ();/////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1700,7 +1700,7 @@ public function integer of_includecomputes (boolean ab_switch);/////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1743,7 +1743,7 @@ protected function integer of_buildcolumnnames (boolean ab_replacelist);////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1874,7 +1874,7 @@ event destructor;call super::destructor;////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
