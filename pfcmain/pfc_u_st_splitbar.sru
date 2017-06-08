@@ -135,7 +135,7 @@ event mousemove;////////////////////////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -188,7 +188,7 @@ event lbuttonup;////////////////////////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -238,7 +238,7 @@ public function integer of_setbarcolor (long al_color);/////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -297,7 +297,7 @@ public function integer of_setbarmovecolor (long al_color);/////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -356,7 +356,7 @@ protected function integer of_lbuttonup (unsignedlong aul_flags, integer ai_xpos
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -449,7 +449,7 @@ protected function integer of_updateobjectdata ();//////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -673,7 +673,7 @@ public function integer of_getextremepoint (integer ai_extremetype);////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1132,7 +1132,7 @@ public function integer of_SetMinObjectSize (integer ai_minsize);///////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1186,7 +1186,7 @@ public function integer of_getminobjectsize ();/////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1234,7 +1234,7 @@ public function integer of_getbarcolor ();//////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1282,7 +1282,7 @@ public function string of_GetHorizontalPointer ();//////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1330,7 +1330,7 @@ public function string of_GetVerticalPointer ();////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1378,7 +1378,7 @@ public function integer of_sethorizontalpointer (string as_icon);///////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1439,7 +1439,7 @@ public function integer of_setverticalpointer (string as_icon);/////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1500,7 +1500,7 @@ public function integer of_GetBarMoveColor ();//////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1550,7 +1550,7 @@ public function integer of_getinfo (ref n_cst_infoattrib anv_infoattrib);///////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1602,7 +1602,7 @@ protected function boolean of_issupported ();///////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1661,7 +1661,7 @@ protected function integer of_mousemove (unsignedlong aul_flags, integer ai_xpos
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1817,7 +1817,7 @@ protected function integer of_redraw (integer ai_prevx, integer ai_prevwidth, in
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -1984,7 +1984,7 @@ public function integer of_register (windowobject awo_object, integer ai_positio
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
@@ -2228,7 +2228,7 @@ public function integer of_unregister_all ();///////////////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -2296,7 +2296,7 @@ public function integer of_unregister (windowobject awo_object);////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -2393,7 +2393,7 @@ public subroutine of_move (long al_newx, long al_newy);/////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -2453,7 +2453,7 @@ private subroutine of_moved (integer ai_pointerx, integer ai_pointery);/////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -2888,7 +2888,7 @@ private subroutine of_previousposition (integer ai_prevpositionx, integer ai_pre
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -2938,7 +2938,7 @@ event constructor;//////////////////////////////////////////////////////////////
 /*
  * Open Source PowerBuilder Foundation Class Libraries
  *
- * Copyright (c) 2004-2005, All rights reserved.
+ * Copyright (c) 2004-2017, All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted in accordance with the MIT License
