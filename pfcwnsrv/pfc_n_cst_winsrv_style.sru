@@ -75,7 +75,7 @@ public subroutine of_clientsize (ref long rl_width, ref long rl_height);////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -128,7 +128,7 @@ public subroutine of_describe (ref string rs_style[]);//////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -180,7 +180,7 @@ public subroutine of_describe (window vw_describe, ref string rs_style[]);//////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -230,7 +230,7 @@ public subroutine of_style (window vw_style, unsignedlong vul_style, boolean vb_
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -277,7 +277,7 @@ public subroutine of_style (unsignedlong vul_style, boolean vb_style);//////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -328,7 +328,7 @@ public subroutine of_setscrollbars (window vw_scrollbars);//////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -464,7 +464,7 @@ public subroutine of_setscrollbars ();//////////////////////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -516,7 +516,7 @@ public subroutine of_style_extended (unsignedlong vul_styleextended, boolean vb_
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -568,7 +568,7 @@ public subroutine of_style_extended (window vw_styleextended, unsignedlong vul_s
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -613,7 +613,7 @@ public function boolean of_ismdichild ();///////////////////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -657,7 +657,7 @@ public subroutine of_clientsize (unsignedlong vul_hwnd, ref long rl_width, ref l
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -733,7 +733,7 @@ public function boolean of_ismdichild (unsignedlong vul_hwnd);//////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -775,7 +775,7 @@ public function boolean of_ismdichild (window vw_ismdichild);///////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -816,7 +816,7 @@ public function boolean of_ischild (unsignedlong vul_hwnd);/////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -858,7 +858,7 @@ public function boolean of_ischild (window vw_ischild);/////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -901,7 +901,7 @@ public function boolean of_ischild ();//////////////////////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -947,7 +947,7 @@ public function boolean of_isstyle (unsignedlong vul_hwnd, unsignedlong vul_styl
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1000,7 +1000,7 @@ public function boolean of_isstyle_extended (unsignedlong vul_hwnd, unsignedlong
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1049,7 +1049,7 @@ public subroutine of_clientsize (window vw_clientsize, ref long rl_width, ref lo
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1099,7 +1099,7 @@ public subroutine of_describe (unsignedlong vul_hwnd, ref string rs_style[]);///
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1206,7 +1206,7 @@ public function boolean of_isstyle_extended (window vw_isstyleextended, unsigned
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1260,7 +1260,7 @@ public function boolean of_isstyle_extended (unsignedlong vul_styleextended);///
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1315,7 +1315,7 @@ public function boolean of_isstyle (unsignedlong vul_style);////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1370,7 +1370,7 @@ public function boolean of_isstyle (window vw_isstyle, unsignedlong vul_style);/
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1421,7 +1421,7 @@ public subroutine of_style (unsignedlong vul_hwnd, unsignedlong vul_style, boole
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1480,7 +1480,7 @@ public subroutine of_style_extended (unsignedlong vul_hwnd, unsignedlong vul_sty
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
@@ -1542,7 +1542,7 @@ event destructor;call super::destructor;////////////////////////////////////////
 //
 // Open Source PowerBuilder Foundation Class Libraries
 //
-// Copyright (c) 2004-2005, All rights reserved.
+// Copyright (c) 2004-2017, All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted in accordance with the MIT License
