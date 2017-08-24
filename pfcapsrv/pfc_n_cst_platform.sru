@@ -66,9 +66,8 @@ end prototypes
 type variables
 Protected:
 string		is_separator
-string		is_ClassName[] = {"FNWND3125", "FNWNS3125"}
+string		is_ClassName[] = {"FNWND3126", "FNWNS3126"}
 end variables
-
 forward prototypes
 public function unsignedinteger of_findwindow (string as_window_name)
 public function integer of_getactivewindowborder ()
