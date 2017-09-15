@@ -1,16 +1,15 @@
 HA$PBExportHeader$pfc_n_cst_metaclass.sru
 $PBExportComments$PFC metaclass service
 forward
-global type pfc_n_cst_metaclass from nonvisualobject
+global type pfc_n_cst_metaclass from n_base
 end type
 end forward
 
-global type pfc_n_cst_metaclass from nonvisualobject autoinstantiate
+global type pfc_n_cst_metaclass from n_base autoinstantiate
 end type
 
 type variables
 Protected:
-boolean	ib_IsObsolete
 boolean	ib_skip_system
 boolean 	ib_NotifyObsolete
 string		is_ObsoleteTag = "// ##Obsolete##"
@@ -6102,11 +6101,9 @@ end function
 
 on pfc_n_cst_metaclass.create
 call super::create
-TriggerEvent( this, "constructor" )
 end on
 
 on pfc_n_cst_metaclass.destroy
-TriggerEvent( this, "destructor" )
 call super::destroy
 end on
 
